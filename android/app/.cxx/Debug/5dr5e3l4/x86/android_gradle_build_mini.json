@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/solomonlaleye/Downloads/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/solomonlaleye/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/solomonlaleye/Desktop/agility_flutter_form/android/app/.cxx/Debug/5dr5e3l4/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/solomonlaleye/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/solomonlaleye/Desktop/agility_flutter_form/android/app/.cxx/Debug/5dr5e3l4/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
